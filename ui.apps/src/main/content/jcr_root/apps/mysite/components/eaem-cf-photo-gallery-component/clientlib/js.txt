@@ -1,0 +1,2 @@
+cfm-composite-multifield.js
+photo-gallery-mf.js
